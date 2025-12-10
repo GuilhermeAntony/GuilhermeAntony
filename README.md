@@ -3,7 +3,11 @@
 ![gif gato trabalhando](https://tenor.com/pt-BR/view/trabajando-gif-9354931344211857911)
 
 
-![Guilherme Antony GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAntony&show_icons=true&theme=dracula)
+<div>
+<a href="https://github.com/GuilhermeAntony">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAntony&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAntony&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ## Ferramentas e Tecnologias 
@@ -12,7 +16,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="60" height="60"/>      
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="60" height="60"/>
-              
+
+
 ## Contatos
 <div>
 <a href = "mailto:guilherme.antony1306@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
