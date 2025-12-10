@@ -1,13 +1,15 @@
-## Hi there 👋
+## Bem-vindo, sou Guilherme Antony 👋
 
-<!-- Cabeçalhos -->
+![gif gato trabalhando](https://tenor.com/pt-BR/view/trabajando-gif-9354931344211857911)
 
 <div>
 <a href="https://github.com/GuilhermeAntony" target="_blank">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAntony&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAntony&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
 ## Ferramentes e Tecnologias 
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="60" height="60"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" width="60" height="60"/>      
