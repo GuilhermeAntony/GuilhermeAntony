@@ -1,8 +1,11 @@
 ## Bem-vindo, sou Guilherme Antony 👋
 
-![gif gato trabalhando](https://tenor.com/pt-BR/view/trabajando-gif-9354931344211857911)
+![](https://tenor.com/pt-BR/view/gato-teclado-trabalhando-escrevendo-pra-caramba-gato-fofo-gatinho-gif-10688971139362782124)
 
-
+![](https://komarev.com/ghpvc/?username=GuilhermeAntony&style=flat&color=blueviolet)
+![Profile Views](https://gpvc.arturio.dev/GuilhermeAntony)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=GuilhermeAntony.GuilhermeAntony)
+![](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
 <div>
 <a href="https://github.com/GuilhermeAntony">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAntony&layout=compact&langs_count=7&theme=dracula"/>
