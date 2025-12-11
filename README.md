@@ -1,12 +1,13 @@
 ## Bem-vindo, sou Guilherme Antony 👋
 
-![](https://komarev.com/ghpvc/?username=GuilhermeAntony&style=flat&color=blueviolet)
 ![](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
 <div>
 <a href="https://github.com/GuilhermeAntony">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeAntony&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeAntony&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 ![Guilherme Antony GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeAntony&show_icons=true&theme=radical)
+![](https://komarev.com/ghpvc/?username=GuilhermeAntony&style=flat&color=blueviolet)
+
 </div>
 
 
