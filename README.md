@@ -1,10 +1,6 @@
 ## Bem-vindo, sou Guilherme Antony 👋
 
-![](https://tenor.com/pt-BR/view/gato-teclado-trabalhando-escrevendo-pra-caramba-gato-fofo-gatinho-gif-10688971139362782124)
-
 ![](https://komarev.com/ghpvc/?username=GuilhermeAntony&style=flat&color=blueviolet)
-![Profile Views](https://gpvc.arturio.dev/GuilhermeAntony)
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=GuilhermeAntony.GuilhermeAntony)
 ![](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
 <div>
 <a href="https://github.com/GuilhermeAntony">
