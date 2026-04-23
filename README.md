@@ -1,7 +1,6 @@
 ## Bem-vindo, sou Guilherme Antony 👋
 
-![](https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif)
-<div>
+Este é meu portfólio de projetos, sou formado em Sistemas de Informação e desenvolvedor Javascript apaixonado por resolver problemas.
 
 <a href="https://github.com/GuilhermeAntony">
 
